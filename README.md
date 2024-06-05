@@ -1,3 +1,11 @@
+# Bouncing_Ball Project
+- This project represnts a java swing test to get used with the GUI
+
+Demo
+
+https://github.com/GalanRaduM24/Bouncing_Ball/assets/135463995/35ddf306-ae33-406f-9896-e00bca247441
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -16,11 +24,3 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-# Bouncing_Ball Project
-- This project represnts a java swing test to get used with the GUI
-
-Demo
-
-https://github.com/GalanRaduM24/Bouncing_Ball/assets/135463995/35ddf306-ae33-406f-9896-e00bca247441
-
