@@ -18,7 +18,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 # Bouncing_Ball Project
-![Demo] 
+-This project represnts a java swing test to get used with the GUI
+
+Demo
 
 https://github.com/GalanRaduM24/Bouncing_Ball/assets/135463995/35ddf306-ae33-406f-9896-e00bca247441
 
