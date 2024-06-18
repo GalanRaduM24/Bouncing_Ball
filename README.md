@@ -17,28 +17,14 @@ https://github.com/GalanRaduM24/Bouncing_Ball/assets/135463995/35ddf306-ae33-406
 
 ## Usage
 To run the application, compile the BouncingBall.java file and execute the resulting class file:
-`javac BouncingBall.java`
-`java BouncingBall`
+- `javac BouncingBall.java`
+- `java BouncingBall`
+  
 Upon execution, a window will appear with a bouncing red ball. You can interact with the ball using the mouse as described above.
 
 ## Dependencies
-Java SE Development Kit (JDK)
-Swing library (included in JDK)
-
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java SE Development Kit (JDK)
+- Swing library (included in JDK)
 
 ## Dependency Management
 
