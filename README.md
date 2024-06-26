@@ -17,8 +17,12 @@ https://github.com/GalanRaduM24/Bouncing_Ball/assets/135463995/35ddf306-ae33-406
 
 ## Usage
 To run the application, compile the BouncingBall.java file and execute the resulting class file:
-- `javac BouncingBall.java`
-- `java BouncingBall`
+```
+  javac BouncingBall.java
+```
+```
+  java BouncingBall
+```
   
 Upon execution, a window will appear with a bouncing red ball. You can interact with the ball using the mouse as described above.
 
